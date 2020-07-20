@@ -1,7 +1,7 @@
 import React from 'react';
 import axios from 'axios';
-import Loading from './Loading';
-import Weather from './Weather';
+import Loading from './Components/Loading';
+import Weather from './Components/Weather';
 import * as Location from 'expo-location';
 import { Alert } from 'react-native';
 
